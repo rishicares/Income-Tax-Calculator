@@ -10,16 +10,16 @@ The tax brackets used in this calculator are based on the current tax system in 
 
 ## For unmarried individuals:
 
-First 500,000: 1%
-Next 200,000: 10%
-Next 300,000: 20%
-Next 10,00,000: 30%
-Remaining above 2,000,000: 36%
+1. First 500,000: 1%
+2. Next 200,000: 10%
+3. Next 300,000: 20%
+4. Next 10,00,000: 30%
+5. Remaining above 2,000,000: 36%
 
 ## For married couples:
 
-First 600,000: 1%
-Next 200,000: 10%
-Next 300,000: 20%
-Next 10,00,000: 30%
-Remaining above 2,000,000: 36%
+1. First 600,000: 1%
+2. Next 200,000: 10%
+3. Next 300,000: 20%
+4. Next 10,00,000: 30%
+5. Remaining above 2,000,000: 36%
